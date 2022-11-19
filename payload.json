@@ -4,10 +4,12 @@
     "add": [
         { "path": "fun/test/test.bat"}, 
         { "path": "fun/hello.bat" },
-        { "path": "fun/test-win.exe" }
+        { "path": "fun/test-win.exe" },
+        { "path": "fun2test/"}
     ],
     "remove": [
         { "path": "unfun/bytework.bat" },
-        { "path": "unfun/workdance.bat" }
+        { "path": "unfun/workdance.bat" },
+        { "path": "unfun/"}
     ]
 }
