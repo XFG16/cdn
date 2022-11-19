@@ -8,7 +8,6 @@
     ],
     "remove": [
         { "path": "unfun/bytework.bat" },
-        { "path": "unfun/workdance.bat" },
-        { "path": "unfun/" }
+        { "path": "unfun/workdance.bat" }
     ]
 }
