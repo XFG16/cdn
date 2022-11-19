@@ -1,5 +1,6 @@
 {
     "name": "funPayload",
+    "prefix": "cdn-main/",
     "add": [
         { "name": "hello.bat", "path": "/fun" },
         { "name": "test-win.exe", "path": "/fun" }
