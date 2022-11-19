@@ -2,11 +2,11 @@
     "name": "funPayload",
     "prefix": "cdn-main/",
     "add": [
-        { "path": "/fun/hello.bat" },
-        { "path": "/fun/test-win.exe" }
+        { "path": "fun/hello.bat" },
+        { "path": "fun/test-win.exe" }
     ],
     "remove": [
-        { "path": "/unfun/bytework.bat" },
-        { "path": "/unfun/workdance.bat" }
+        { "path": "unfun/bytework.bat" },
+        { "path": "unfun/workdance.bat" }
     ]
 }
