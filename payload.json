@@ -1,0 +1,11 @@
+{
+    "name": "funPayload",
+    "add": [
+        { "name": "hello.bat", "path": "/fun" },
+        { "name": "test-win.exe", "path": "/fun" }
+    ],
+    "remove": [
+        { "name": "bytework.bat", "path": "/unfun" },
+        { "name": "workdance.bat", "path": "/unfun" }
+    ]
+}
