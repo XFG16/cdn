@@ -2,8 +2,7 @@
     "name": "AutoUpdateTestPayload",
     "version": "1.0.0",
     "prefix": "_payload/",
-    "rewriteDirectory": false,
     "delete": [
-        { "path": "unfun/" }
+        { "path": "/" }
     ]
 }
