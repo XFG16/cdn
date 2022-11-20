@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "prefix": "_payload/",
     "delete": [
-        { "path": "" }
+        { "path": "unfun/" }
     ],
     "newUpdater": "thisIsTheNewUpdater.exe"
 }
