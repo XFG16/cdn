@@ -4,5 +4,6 @@
     "prefix": "_payload/",
     "delete": [
         { "path": "" }
-    ]
+    ],
+    "newUpdater": "thisIsTheNewUpdater.exe"
 }
