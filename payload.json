@@ -6,5 +6,6 @@
         { "path": "unfun/" },
         { "path": "test/amogus.json" }
     ],
-    "newUpdater": "thisIsTheNewUpdater.exe"
+    "newUpdater": "thisIsTheNewUpdater.exe",
+    "callback": "fun2test/writeHello.exe"
 }
