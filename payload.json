@@ -1,15 +1,9 @@
 {
-    "name": "funPayload",
-    "prefix": "cdn-main/",
-    "write": [
-        { "path": "fun/test/test.bat"}, 
-        { "path": "fun/hello.bat" },
-        { "path": "fun/test-win.exe" },
-        { "path": "fun2test/"}
-    ],
+    "name": "AutoUpdateTestPayload",
+    "version": "1.0.0",
+    "prefix": "_payload/",
+    "rewriteDirectory": false,
     "delete": [
-        { "path": "unfun/bytework.bat" },
-        { "path": "unfun/workdance.bat" },
-        { "path": "unfun/"}
+        { "path": "unfun/" }
     ]
 }
