@@ -7,5 +7,5 @@
         { "path": "test/amogus.json" }
     ],
     "newUpdater": "thisIsTheNewUpdater.exe",
-    "callback": "fun2test/writeHello.exe"
+    "onFinish": "fun2test/writeHello.exe"
 }
