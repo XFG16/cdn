@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "prefix": "_payload/",
     "delete": [
-        { "path": "unfun/" }
+        { "path": "unfun/" },
+        { "path": "amogus.json" }
     ],
     "newUpdater": "thisIsTheNewUpdater.exe"
 }
